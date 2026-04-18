@@ -163,13 +163,6 @@ git clone https://github.com/maskedgojo/Sales_-_Profit_Dashboard.git
 ## 👨‍💻 Author
 
 **Kushaagra Singh**
-B.Tech CSE | Data Analytics Enthusiast
+B.Tech CSE
 
 ---
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
-
-```
-
